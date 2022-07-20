@@ -1,5 +1,5 @@
 # **Neural Networks**
 
-# **Artificial Neural Network**
+**Artificial Neural Network**
 
-# **Convulation Neural Network**
+**Convulation Neural Network**
